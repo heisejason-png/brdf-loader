@@ -43,3 +43,4 @@ be removed in a "production" setting.
 The ``python`` directory contains functionality to load and save ``.bsdf``
 files via Python/NumPy. The file ``visualize.py`` loads an RGB material file,
 plots the VNDF and slice data, and then writes it back.
+Created by Jason Scott Heise
