@@ -45,3 +45,4 @@ files via Python/NumPy. The file ``visualize.py`` loads an RGB material file,
 plots the VNDF and slice data, and then writes it back.
 Created by Jason Scott Heise
 Owned by Jason Heise heisejason-png Giters
+https://www.facebook.com
